@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dof</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hyperfocal_distance">Hyperfocal distance</string>
+    <string name="near_limit">Near limit</string>
+    <string name="far_limit">Far limit</string>
+    <string name="dof">Depth of field</string>
+    <string name="body_type">Camera body</string>
+    <string name="lens_type">Lens</string>
+    <string name="aperture">Aperture</string>
+    <string name="focal_distance">Focal distance</string>
+    <string name="source_distance">Source distance</string>
+</resources>
